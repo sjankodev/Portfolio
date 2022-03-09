@@ -33,7 +33,7 @@ function Home2() {
                                     Auction websites,
                                     Order processing systems, CRM, Custom CMS, Learning applications, Classified
                                     websites, Online job platforms,
-                                    Social networking websites, Corporate sites and portals.</b>
+                                    Social networking websites, Corporate sites and portals and more.</b>
                             </i>
                             <br/>
                             <br/>
