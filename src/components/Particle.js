@@ -15,20 +15,20 @@ function Particle() {
           },
           line_linked: {
             enable: false,
-            opacity: 0.03,
+            opacity: 4,
           },
           move: {
-            direction: "right",
+            direction: "top",
             speed: 0.05,
           },
           size: {
-            value: 1,
+            value: 2,
           },
           opacity: {
             anim: {
               enable: true,
               speed: 1,
-              opacity_min: 0.05,
+              opacity_min: 1,
             },
           },
         },
